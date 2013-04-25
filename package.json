@@ -1,0 +1,15 @@
+{
+	"author": "Andrew Kane",
+	"name": "XboxLeaders",
+	"description": "Node.js module interface against the XboxLeaders REST API",
+	"keywords" : ["xbox", "api", "achievements", "profile"],
+	"version": "0.1.0",
+	"repository": {
+		"type" : "git",
+		"url": "git@github.com:codemaster/XboxLeadersNodeJS.git"
+	},
+	"main": "./lib/xboxleaders",
+	"engines": {
+		"node" : "*"
+	}
+}
